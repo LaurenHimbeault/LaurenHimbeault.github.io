@@ -1,0 +1,16 @@
+subject: Publications
+listing-order: 7
+icon: "/assets/img/flask.svg"
+contents:
+  - title: Conferences
+    ref: 
+      - "[1] Himbeault, L., & Latulipe, C. (2023). Two-Stage Final Exam in Intro CS: Student Perceptions and Grade Impacts. (https://doi.org/10.1145/3593342.3593355), WCCCE 2023"
+      - "[2] Latulipe, C., & Himbeault, L. (2024). Students Investigating Pedagogy: A Project for Learning about Learning in CS. (https://dl.acm.org/doi/10.1145/3626252.3630933), SIGCSE 2024"
+      - "[3] Himbeault, L., & Latulipe, C. (2024). An Initial Exploration of Code Diagram Query Effectiveness. (https://doi.org/10.1145/3660650.3660664), WCCCE 2024"
+
+  - title: Poster Competition
+    ref:
+      - "[4] Himbeault, L. (2023). Diagrammatic Question Framework: Studying Effectiveness In First-Year Computing Course (https://doi.org/10.1145/3545947.3573278), SIGCSE TS 2023 - Student Research Competition"
+  - title: Course Textbook Chapter Content
+    ref:
+      - "[5] Latulipe, C., Himbeault, L., & Lupkowski, C. (2022). Programming, Interactivity, and Ethics: How to Think Like a Computer (PIE Edition). Runestone Academy Open-Source Textbook."

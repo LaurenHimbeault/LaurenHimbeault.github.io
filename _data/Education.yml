@@ -1,0 +1,13 @@
+subject: Education
+listing-order: 2
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: University of Manitoba, MSc in Computer Science
+    description:
+      - Effectiveness of Diagrammatic Code Queries on Formative Assessments
+      - Engaging Novice Students with a Notional Machine
+    date: Jan. 2022 - Aug. 2023
+  - title: University of Manitoba, Honours (Co-op) in Computer Science
+    description:
+      - Specialization in Databases, Software Engineering, and Theoretical Computer Science
+    date: Sept. 2009 - Dec. 2014

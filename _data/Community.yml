@@ -1,0 +1,23 @@
+subject: Community 
+listing-order: 4
+icon: "/assets/img/globe.svg"
+contents:
+  - title: Board Member
+    role: AnitaB.org
+    description:
+      - Work alongside other board members to advance the AnitaB.org mission.
+      - Review financial logs for AnitaB.org and its C-level staff to ensure transparency and accountability.
+      - Evaluate and discuss nomination and governance action items relevant to both the organization and the board itself.
+  - title: University of Manitoba
+    role: WICS Liaison
+    description:
+      - Facilitated connections between undergraduate students and industry mentors and leaders for speaking engagements and panel discussions.
+      - Helped students access significant events like the Grace Hopper Celebration of Women and the Canadian Conference for Women in Computer Science.
+      - Delivered presentations to WICS members on topics such as navigating Imposter Syndrome and understanding the local post-graduation job market.
+      - Collaborated with WICS and the department head to secure a designated study space for the group.
+  - title: Code.org
+    role: Hour of Code Volunteer
+    description:
+      - Facilitate one-hour coding activities to engage grade school students and promote interest in computer science.
+      - Assist teachers in integrating more computer science education into their curriculum.
+      - Organize and train groups of volunteers to facilitate hour-of-code events in Winnipeg and surrounding communities.

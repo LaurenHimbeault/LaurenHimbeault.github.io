@@ -1,0 +1,47 @@
+subject: Experiences
+listing-order: 1
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: University of Manitoba
+    role: Instructor
+    description:
+      - Develop and present lectures in various formats including distance education, remote learning, and traditional in-class settings.
+      - Create and distribute educational materials such as lectures, exams, projects, assignments, labs, and in-class activities for courses at the 1000-3000 level covering both practical and theoretical topics.
+      - Serve as a course director and supervisor, overseeing the consistency and quality of class materials across multi-section courses.
+      - Assess the teaching quality of other instructors and provide support for their professional development.
+    date: May 2024 - Ongoing
+
+  - title: University of Manitoba
+    role: Sessional Instructor
+    description: 
+      - Develop and present lectures in various formats including distance education, remote learning, and traditional in-class settings.
+      - Create and distribute educational materials such as lectures, exams, projects, assignments, labs, and in-class activities for courses at the 1000-3000 level covering both practical and theoretical topics.
+      - Serve as a course director and supervisor, overseeing the consistency and quality of class materials across multi-section courses.
+      - Assess the teaching quality of other instructors and provide support for their professional development.
+    date: Apr. 2018 - Apr. 2024
+
+  - title: University of Manitoba
+    role: Help Centre Leader and Teaching Assistant Coordinator
+    description:
+      - Developed the hiring and training program for teaching assistants and graders within the Department of Computer Science.
+      - Hire and coordinate graders and teaching assistants to support course assessments and laboratory components.
+      - Reviewed and ranked all potential applicants for both introductory and specialized courses.
+      - Maintained ongoing communication with staff, faculty, and successful candidates to ensure a smooth operational process throughout the year.
+    date: Jan. 2021 - Apr. 2024
+
+  - title: University of Manitoba
+    role: Teaching Assistant/Grader
+    description: 
+      - Support first and second-year students with laboratory work in Java, Python, and C, focusing on object-oriented programming.
+      - Grade assignments and exams for Computer Science courses ranging from the 1000 to 4000 level, covering both programming and theoretical concepts.
+      -  Evaluate student work across various programming languages and subject matter, ensuring comprehensive understanding and application of concepts.
+    date: May. 2012 - Dec. 2023
+
+  - title: Payworks
+    role: Systems Developer
+    description: 
+      - Designed the dynamic website using React for data visualization
+      - Integrated '*Yolo*' to boost the accuracy of the object detection
+    date: Jan. 2015 - July. 2019
+
+    
