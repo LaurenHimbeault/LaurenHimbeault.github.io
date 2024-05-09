@@ -100,9 +100,9 @@
         <li class="subject" id="{{ subject.subject }}">
           <h2 class="subject-name">
             <div>
-              <img class="subject-icon" src="{{ subject.icon | prepend: site.baseurl }}" alt="{{ subject.subject | prepend: site.baseurl }}">
+              <img class="subject-icon" src="{{ subject.icon | prepend: site.baseurl }}" alt="{{ subject.subject | prepend: site.baseurl }}" >
             </div>
-            {{ subject.subject }}
+              {{ subject.subject }}
           </h2>
           <ul>
               {% for member in subject.contents %}

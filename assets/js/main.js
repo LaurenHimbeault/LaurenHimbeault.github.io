@@ -8,7 +8,13 @@ document.addEventListener('DOMContentLoaded', function(){
 
         let itemLink = document.createElement("a");
         itemLink.classList.add("content-link");
-        itemLink.textContent = h.textContent;
+
+        let index = h.textContent.indexOf(' ('); // Finds the index of the first '('
+        let result = h.textContent;
+        if (index !== -1) { // Check if '(' is found
+            result = h.textContent.substring(0, index); // Extracts substring from start to '('
+        } 
+        itemLink.textContent = result;
 
         tocItem.append(itemLink);
 
