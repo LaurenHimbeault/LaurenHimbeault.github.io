@@ -1,0 +1,18 @@
+subject: Speaking Engagements
+listing-order: 7
+icon: "/assets/img/speaking.svg"
+contents:
+  - title: "Canadian Undergraduate Women in Computer Science Workshop"
+    role: Organizer and Facilitator
+    date: February 2022
+    description:
+      - "Event: One-Day Workshop for Undergraduate Women in Computer Science Groups Designed and conducted interactive seminars on key professional development topics including Imposter Syndrome, Job Searching, and Resume Building."
+      - "Led a round-table discussion on the implications of gendered virtual AI assistants and coordinated a fireside chat with CEO Ania Wysocka."
+  - title: "University Classroom and Student Groups"
+    role: Guest Speaker
+    dates: 2022 - Ongoing
+    description:
+      - "Navigating Imposter Syndrome: Offered strategies and insights to help students overcome feelings of inadequacy and self-doubt in their academic and professional pursuits."
+      - "Interrupting Bias: Educated on recognizing and combating systemic biases in tech and academic environments."
+      - "Grad School Insights: Provided guidance on applying to and thriving in graduate programs, with a focus on computer science."
+      - "Local Job Market Overview: Delivered talks on the dynamics of the local tech job market, preparing students for post-graduation career planning."

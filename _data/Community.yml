@@ -1,23 +1,39 @@
-subject: Active Community Service
+subject: Community Engagement
 listing-order: 5
 icon: "/assets/img/globe.svg"
 contents:
   - title: Board Member
     role: AnitaB.org
+    dates: 2022 - Ongoing
     description:
-      - Work alongside other board members to advance the AnitaB.org mission.
-      - Review financial logs for AnitaB.org and its C-level staff to ensure transparency and accountability.
-      - Evaluate and discuss nomination and governance action items relevant to both the organization and the board itself.
-  - title: University of Manitoba
-    role: WICS Liaison
+      - "Work alongside other board members to advance the AnitaB.org mission."
+      - "Review financial logs for AnitaB.org and its C-level staff to ensure transparency and accountability."
+      - "Evaluate and discuss nomination and governance action items relevant to both the organization and the board itself."
+  - title: "University Classroom and Student Groups"
+    role: Guest Speaker
+    dates: 2022 - Ongoing
     description:
-      - Facilitated connections between undergraduate students and industry mentors and leaders for speaking engagements and panel discussions.
-      - Helped students access significant events like the Grace Hopper Celebration of Women and the Canadian Conference for Women in Computer Science.
-      - Delivered presentations to WICS members on topics such as navigating Imposter Syndrome and understanding the local post-graduation job market.
-      - Collaborated with WICS and the department head to secure a designated study space for the group.
+      - "Navigating Imposter Syndrome: Offered strategies and insights to help students overcome feelings of inadequacy and self-doubt in their academic and professional pursuits."
+      - "Interrupting Bias: Educated on recognizing and combating systemic biases in tech and academic environments."
+      - "Grad School Insights: Provided guidance on applying to and thriving in graduate programs, with a focus on computer science."
+      - "Local Job Market Overview: Delivered talks on the dynamics of the local tech job market, preparing students for post-graduation career planning."
+  - title: "Practice Interview Sessions: Computer Science Co-op Program"
+    role: Interviewer and Mentor
+    dates: 2022 - Ongoing
+    description: 
+      - "Provided hands-on practice interview sessions for Computer Science Co-op students, simulating real-world job interview scenarios to enhance their preparation."
+      - "Offered personalized feedback and actionable advice on both technical and behavioral interview techniques, helping students improve their communication skills and technical acumen."
+      - "Created and distributed comprehensive interview preparation materials, including question banks and best practice strategies for successful interviews in the tech industry."
   - title: Code.org
     role: Hour of Code Volunteer
+    dates: 2013 - Ongoing
     description:
-      - Facilitate one-hour coding activities to engage grade school students and promote interest in computer science.
-      - Assist teachers in integrating more computer science education into their curriculum.
-      - Organize and train groups of volunteers to facilitate hour-of-code events in Winnipeg and surrounding communities.
+      - "Facilitate one-hour coding activities to engage grade school students and promote interest in computer science."
+      - "Assist teachers in integrating more computer science education into their curriculum."
+      - "Organize and train groups of volunteers to facilitate hour-of-code events in Winnipeg and surrounding communities."
+  - title: "Canadian Undergraduate Women in Computer Science Workshop"
+    role: Organizer and Facilitator
+    date: February 2022
+    description:
+      - "Event: One-Day Workshop for Undergraduate Women in Computer Science Groups Designed and conducted interactive seminars on key professional development topics including Imposter Syndrome, Job Searching, and Resume Building."
+      - "Led a round-table discussion on the implications of gendered virtual AI assistants and coordinated a fireside chat with CEO Ania Wysocka."
