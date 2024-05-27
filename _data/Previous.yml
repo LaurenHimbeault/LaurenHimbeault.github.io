@@ -1,24 +1,31 @@
-subject: Previous Teaching (* Term Course Director)
+subject: Previous Teaching
 listing-order: 9
 icon: "/assets/img/teach.svg"
 contents:
   - title: "COMP 1000: Think Like a Computer"
+    role: Teaching Assistant/Course Content Creator
     date: Fall 2022
 
   - title: "COMP 1010: Introductory Computer Science 1"
+    role: Instructor/Course Director*
     date: Summer 2018*, Summer 2019*, Fall 2019  
 
   - title: "COMP 1012: Programming for Scientists & Engineers"
+    role: Instructor/Course Director*
     date: Fall 2019, Winter 2023*
 
   - title: "COMP 1020: Introductory Computer Science 2"
+    role: Instructor/Course Director*
     date: Summer 2020*, Summer 2021*, Winter 2022*, Summer 2022*, Fall 2023*, Winter 2024*
 
   - title: "COMP 2150: Objected-Oriented Programming"
+    role: Instructor/Course Director*
     date: Fall 2023*
 
   - title: "COMP 3350: Software Engineering 1"
+    role: Instructor
     date: Winter 2021, Winter 2024
 
   - title: "COMP 4620: Professional Practices"
+    role: Instructor
     date: Summer 2021

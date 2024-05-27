@@ -3,5 +3,6 @@ listing-order: 1
 icon: "/assets/img/teach.svg"
 contents:
   - title: "COMP 2140: Data Structures and Algorithms (Distance Ed)"
+    role: Instructor/Course Director*
     date: Summer 2024*
     
