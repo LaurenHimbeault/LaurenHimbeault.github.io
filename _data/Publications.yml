@@ -2,11 +2,11 @@ subject: Publications
 listing-order: 8
 icon: "/assets/img/flask.svg"
 contents:
-  - title: Conferences
+  - title: Proceedings
     ref: 
-      - "[1] Himbeault, L., & Latulipe, C. (2023). Two-Stage Final Exam in Intro CS: Student Perceptions and Grade Impacts. (https://doi.org/10.1145/3593342.3593355), WCCCE 2023"
-      - "[2] Latulipe, C., & Himbeault, L. (2024). Students Investigating Pedagogy: A Project for Learning about Learning in CS. (https://dl.acm.org/doi/10.1145/3626252.3630933), SIGCSE 2024"
-      - "[3] Himbeault, L., & Latulipe, C. (2024). An Initial Exploration of Code Diagram Query Effectiveness. (https://doi.org/10.1145/3660650.3660664), WCCCE 2024"
+      - "[1] Himbeault, L., & Latulipe, C. (2024). An Initial Exploration of Code Diagram Query Effectiveness. (https://doi.org/10.1145/3660650.3660664), WCCCE 2024"
+      - "[2] Latulipe, C., & Himbeault, L. (2024). Students Investigating Pedagogy: A Project for Learning about Learning in CS. (https://dl.acm.org/doi/10.1145/3626252.3630933), SIGCSE 2024"      
+      - "[3] Himbeault, L., & Latulipe, C. (2023). Two-Stage Final Exam in Intro CS: Student Perceptions and Grade Impacts. (https://doi.org/10.1145/3593342.3593355), WCCCE 2023"
 
   - title: Poster Competition
     ref:

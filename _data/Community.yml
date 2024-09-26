@@ -9,21 +9,14 @@ contents:
       - "Work alongside other board members to advance the AnitaB.org mission."
       - "Review financial logs for AnitaB.org and its C-level staff to ensure transparency and accountability."
       - "Evaluate and discuss nomination and governance action items relevant to both the organization and the board itself."
-  - title: "University Classroom and Student Groups"
-    role: Guest Speaker
+  - title: "Post-Secondary Workshops & Seminars"
+    role: Facilitator & Speaker
     dates: 2022 - Ongoing
     description:
-      - "Navigating Imposter Syndrome: Offered strategies and insights to help students overcome feelings of inadequacy and self-doubt in their academic and professional pursuits."
-      - "Interrupting Bias: Educated on recognizing and combating systemic biases in tech and academic environments."
-      - "Grad School Insights: Provided guidance on applying to and thriving in graduate programs, with a focus on computer science."
-      - "Local Job Market Overview: Delivered talks on the dynamics of the local tech job market, preparing students for post-graduation career planning."
-  - title: "Practice Interview Sessions: Computer Science Co-op Program"
-    role: Interviewer and Mentor
-    dates: 2022 - Ongoing
-    description: 
-      - "Provided hands-on practice interview sessions for Computer Science Co-op students, simulating real-world job interview scenarios to enhance their preparation."
-      - "Offered personalized feedback and actionable advice on both technical and behavioral interview techniques, helping students improve their communication skills and technical acumen."
-      - "Created and distributed comprehensive interview preparation materials, including question banks and best practice strategies for successful interviews in the tech industry."
+      - "Navigating Imposter Syndrome: Strategies and insights aimed at helping students overcome feelings of inadequacy and self-doubt in their academic and professional pursuits."
+      - "Interrupting Bias: Providing education and techniques on recognizing and combating systemic biases in tech and academic environments."
+      - "Grad School Insights: Discussing the processes on applying to and techniques for thriving in graduate programs, with a focus on being an underrepresented student in computer science."
+      - "Local Job Market Overview: Delivering talks on the dynamics of the local tech job market, and preparing students for post-graduation career planning."
   - title: Code.org
     role: Hour of Code Volunteer
     dates: 2013 - Ongoing
@@ -31,6 +24,13 @@ contents:
       - "Facilitate one-hour coding activities to engage grade school students and promote interest in computer science."
       - "Assist teachers in integrating more computer science education into their curriculum."
       - "Organize and train groups of volunteers to facilitate hour-of-code events in Winnipeg and surrounding communities."
+   - title: "Practice Interview Sessions: Computer Science Co-op Program"
+    role: Interviewer and Mentor
+    dates: 2022 - 2024
+    description: 
+      - "Provided hands-on practice interview sessions for Computer Science Co-op students, simulating real-world job interview scenarios to enhance their preparation."
+      - "Offered personalized feedback and actionable advice on both technical and behavioral interview techniques, helping students improve their communication skills and technical acumen."
+      - "Created and distributed comprehensive interview preparation materials, including question banks and best practice strategies for successful interviews in the tech industry."
   - title: "Canadian Undergraduate Women in Computer Science Workshop"
     role: Organizer and Facilitator
     date: February 2022

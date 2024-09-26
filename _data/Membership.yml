@@ -2,16 +2,16 @@ subject: Professional Memberships
 listing-order: 7
 icon: "/assets/img/membership.svg"
 contents:
-  - title: "Psychology of Programming Interest Group (PPIG) - I follow this interest group"
-    date: 2022 - Ongoing
-  - title: "ACM Special Interest Group: Computer Science Education (SIGCSE)"
-    date: 2021 - Ongoing
-  - title: "Canadian Association of Information Technology Professionals (CIPS)"
-    date: 2020 - Ongoing
   - title: "AnitaB.org"
     date: 2020 - Ongoing
+  - title: "ACM Special Interest Group: Computer Science Education (SIGCSE)"
+    date: 2021 - Ongoing
   - title: "ACM"
-    date: 2020 - 2022
+    date: 2020 - Ongoing
+  - title: "Psychology of Programming Interest Group (PPIG) - I follow this interest group"
+    date: 2022 - Ongoing
+  - title: "Canadian Association of Information Technology Professionals (CIPS)"
+    date: 2020 - 2024
   - title: "ACM Special Interest Group: Information Technology Education (SIGITE)"
     date: 2021 - 2023
   - title: "Institute of Electrical and Electronics Engineers (IEEE)"
