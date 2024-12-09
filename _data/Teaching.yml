@@ -2,7 +2,7 @@ subject: Current Teaching
 listing-order: 1
 icon: "/assets/img/teach.svg"
 contents:
-  - title: "COMP 2140: Data Structures and Algorithms"
-    date: Fall 2024
-  - title: "COMP 1010: Introductory Computer Science 1"
-    date: Fall 2024  
+  - title: "COMP 1020: Introductory Computer Science 2"
+    date: Winter 2025
+  - title: "COMP 3350: Software Engineering 1"
+    date: Winter 2025  
