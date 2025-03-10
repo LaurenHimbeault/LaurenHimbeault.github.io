@@ -48,6 +48,25 @@
 
       </header>
 
+      {% if site.resume_section_current_assignments %}
+      <!-- begin Interests -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Active Teaching</h2>
+        </header>
+
+      {% for item in site.data.currentassignments %}
+      <div class="resume-item">
+        <h4 class="resume-item-details">{{ item.title }}</h4>
+        <p class="resume-item-copy">{{ item.date }}</p>
+      </div>
+      {% endfor %}
+
+      </section>
+      <!-- end Interests -->
+      {% endif %}
+
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
@@ -117,23 +136,25 @@
       <!-- end Projects -->
       {% endif %}
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
+      {% if site.resume_section_professional_development %}
+      <!-- begin Professional Development -->
       <section class="content-section">
 
-        <header class="section-header">
-          <h2>Skills</h2>
-        </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
-        {% endfor %}
+      <header class="section-header">
+        <h2>Professional Development & Workshops</h2>
+      </header>
+
+      {% for item in site.data.pd %}
+      <div class="resume-item">
+        <h4 class="resume-item-details">{{ item.title }}</h4>
+        <p class="resume-item-copy">{{ item.date }}</p>
+      </div>
+      {% endfor %}
 
       </section>
-      <!-- end Skills -->
+      <!-- end Professional Development -->
       {% endif %}
+
 
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
@@ -232,8 +253,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">Himbeault 2025. Fork this resume template on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
       </footer>
 
     </div>

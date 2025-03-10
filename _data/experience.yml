@@ -1,19 +1,44 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  - company: University of Manitoba
+    position: Instructor
+    duration: May 2024 &mdash; Present
+    summary: Develop and present lectures in various formats, including distance education, remote learning, and traditional in-class settings. Serve as a course director and supervisor, ensuring consistency across multi-section courses.
+      <ul class="resume-item-list">
+        <li>Created and distributed educational materials, including lectures, exams, projects, and assignments for 1000-3000 level courses.</li>
+        <li>Assessed teaching quality and provided professional development support for instructors.</li>
+      </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  - company: University of Manitoba
+    position: Sessional Instructor
+    duration: Apr. 2018 &mdash; Apr. 2024
+    summary: Designed and delivered coursework for computer science students, ensuring high-quality education across multiple teaching formats.
+      <ul class="resume-item-list">
+        <li>Developed and presented lectures for courses spanning theoretical and practical topics.</li>
+        <li>Maintained consistency in course material across multi-section offerings.</li>
+      </ul>
 
+  - company: University of Manitoba
+    position: Help Centre Leader and Teaching Assistant Coordinator
+    duration: Jan. 2021 &mdash; Apr. 2024
+    summary: Managed the hiring and training program for teaching assistants and graders in the Department of Computer Science, ensuring operational efficiency and quality support for students.
+      <ul class="resume-item-list">
+        <li>Revised and ranked applicants for TA and grader positions across various courses.</li>
+        <li>Maintained communication with faculty and staff to optimize the hiring and training process.</li>
+      </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  - company: University of Manitoba
+    position: Teaching Assistant/Grader
+    duration: May. 2012 &mdash; Dec. 2023
+    summary: Provided instructional support for students in first- and second-year computer science courses, focusing on object-oriented programming and theoretical concepts.
+      <ul class="resume-item-list">
+        <li>Graded assignments and exams across multiple programming languages and levels (1000-4000).</li>
+        <li>Facilitated student understanding of Java, Python, and C in lab environments.</li>
+      </ul>
+
+  - company: Payworks
+    position: Systems Developer
+    duration: Jan. 2015 &mdash; July. 2019
+    summary: Designed and implemented key software solutions, focusing on dynamic web development and machine learning integration.
+      <ul class="resume-item-list">
+        <li>Developed an interactive data visualization platform using React.</li>
+        <li>Integrated '*Yolo*' to enhance object detection accuracy.</li>
+      </ul>
